@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Caviar;
+    src: url("CaviarDreams.ttf");
+}
+
+@font-face {
+    font-family: Louis;
+    src: url("LouisGeorgeCafe.ttf");
+}
+
+body {
+    background-color: #0d1426;
+    color: white;
+    font-family: Louis;
+    font-size: 18pt;
+    background-size: 100%;
+}
+
+h1, h2 {
+    font-family: Caviar;
+}
